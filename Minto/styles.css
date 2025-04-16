@@ -1,0 +1,149 @@
+/* Minto Color Palette */
+:root {
+    --light-gray: #F5F5F5;
+    --sage-green: #6E9277;
+    --deep-green: #48705A;
+    --dark-gray: #333333;
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--light-gray);
+    color: var(--dark-gray);
+}
+
+/* Navbar */
+.navbar {
+    background-color: var(--dark-gray);
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 2rem; /* 2 times root element */
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: var(--sage-green);
+}
+
+/* Auth Buttons Styling */
+.navbar .btn {
+    font-weight: 500;
+    padding: 6px 15px;
+    border-radius: 20px;
+    transition: 0.3s ease;
+}
+
+.navbar .btn-outline-light:hover {
+    background-color: white;
+    color: var(--dark-gray);
+}
+
+/* Hero Section */
+.hero {
+    background-color: var(--sage-green);
+    padding: 80px 0;
+    color: white;
+}
+
+.hero .logo {
+    width: 120px;
+    height: auto;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+.hero .btn {
+    background-color: white;
+    color: var(--deep-green);
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+}
+
+/* Features Section */
+.features h2 {
+    color: var(--deep-green);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.features h4 {
+    color: var(--sage-green);
+    font-weight: bold;
+}
+
+.features .feature-icon {
+    font-size: 2.5rem;
+    color: var(--deep-green);
+    margin-bottom: 10px;
+}
+
+/* Footer */
+.footer {
+    background-color: var(--dark-gray);
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.footer h5 {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 8px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: 0.3s;
+}
+
+.footer a:hover {
+    color: var(--sage-green);
+    text-decoration: none;
+}
+
+/* Social Icons */
+.footer .social-icons {
+    margin-top: 15px;
+}
+
+.footer .social-icons a {
+    font-size: 1.8rem;
+    margin: 0 15px;
+    color: white;
+    transition: 0.3s;
+}
+
+.footer .social-icons a:hover {
+    color: var(--sage-green);
+}
+
+.footer p {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
