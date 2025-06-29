@@ -1,7 +1,7 @@
 # Minto - Personal Finance Tracker
 
 ### Here's a quick walkthrough of Minto in action:
-[![Video Walkthrough](https://img.youtube.com/vi/QjU0kvtA0Oc)](https://youtu.be/QjU0kvtA0Oc)
+[![Video Walkthrough](https://img.youtube.com/vi/QjU0kvtA0Oc/0.jpg)](https://youtu.be/QjU0kvtA0Oc)
 
 
 Minto is a web-based personal finance tracker designed to simplify money management for users. With an intuitive interface, real-time data visualization, and goal-setting features, Minto empowers users to take control of their finances in a fun and manageable way.
@@ -104,7 +104,7 @@ Once the application is running, you can:
 
 Here's a quick walkthrough of Minto in action:
 
-[![Video Walkthrough](https://img.youtube.com/vi/QjU0kvtA0Oc)](https://youtu.be/QjU0kvtA0Oc)
+[![Video Walkthrough](https://img.youtube.com/vi/QjU0kvtA0Oc/0.jpg)](https://youtu.be/QjU0kvtA0Oc)
 
 Watch the video above to see how Minto helps you track income, expenses, set goals, and manage your finances effectively.
 
