@@ -1,7 +1,7 @@
 # Minto - Personal Finance Tracker
 
 
-https://github.com/user-attachments/assets/f68c4cef-6c99-490a-a924-9865993361c9
+https://youtu.be/FSAIXmpAoDE
 
 
 Minto is a web-based personal finance tracker designed to simplify money management for users. With an intuitive interface, real-time data visualization, and goal-setting features, Minto empowers users to take control of their finances in a fun and manageable way.
